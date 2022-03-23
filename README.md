@@ -1,7 +1,6 @@
 ### Hi there 👋
-**yostto-leal/yostto-leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yostto-leal/yostto-leal** is a ✨ _special_ ✨ 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Udemy / Dio.me /Rockseat
 - 🌱 I’m currently learning ... Dio.me
