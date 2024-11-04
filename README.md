@@ -2,14 +2,14 @@
 **yostto-leal/yostto-leal** is a ✨ _special_ ✨ 
 
 
-- 🔭 I’m currently working on ...Udemy / Dio.me /Rockseat
-- 🌱 I’m currently learning ... Dio.me
+- 🔭 I’m currently working on ...Yosttech Solucion
+- 🌱 I’m currently learning ... Dio.me/udemy/b7web/alura/Rocketseat
 - 👯 I’m looking to collaborate on ... Discord
 - 🤔 I’m looking for help with ... Stack Overflow.
 
 
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yostto-leal)](https://github.com/yostto-leal)
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yostto-leal)]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariosto-leal-1b570b50/)](https://www.linkedin.com/in/ariosto-leal-1b570b50/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aryostto)](https://twitter.com/aryostto)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
