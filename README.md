@@ -2,8 +2,8 @@
 **yostto-leal/yostto-leal** is a ✨ _special_ ✨ 
 
 
-- 🔭 I’m currently working on ...Yosttech Solucion
-- 🌱 I’m currently learning ... Dio.me/udemy/b7web/alura/Rocketseat
+- 🔭 I’m currently working on ...Yostech.Digital
+- 🌱 I’m currently learning ... Dio.me/udemy/cloudTreinamento/katacoda
 - 👯 I’m looking to collaborate on ... Discord
 - 🤔 I’m looking for help with ... Stack Overflow.
 
